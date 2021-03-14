@@ -1,2 +1,2 @@
 # My Flutter Profile
- Coded this my flutter profile using dart flutter
+ Coded this my flutter profile using flutter
